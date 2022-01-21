@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "nodemcu_log";
+$dbname = "tugas";
 
     if (isset($_POST['action'])) {
         switch ($_POST['action']) {
